@@ -9,7 +9,7 @@ export default class DeleteTodos extends Component {
         }
     }
     render() {
-        console.log(this.props.todos[0])
+        
         return (
             <div style={this.getStyle()}>
                 { this.props.todos[0]&&
