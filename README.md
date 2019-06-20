@@ -16,3 +16,6 @@ I followed this exercises during my training as JuniorWeb Developer at BeCode in
 
 ### Description
 
+In Todo app you can create a list of tasks you have to do. When you completed a task you can check the box to cross it or you can click the red button to delete it, or you can delete multiple tasks at once.
+
+### 
